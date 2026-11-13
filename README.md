@@ -1,43 +1,43 @@
 # Retro VR NES Emulator
 
-Proiectul este o experiență imersivă în realitate virtuală care permite utilizatorilor să joace titluri clasice NES (Nintendo Entertainment System) într-un spațiu 3D simulat. 
+The project is an immersive virtual reality experience that allows users to play classic NES (Nintendo Entertainment System) titles in a simulated 3D space. 
 
-Jucătorul este plasat într-un mediu interactiv (o încăpere retro cu televizor CRT sau o sală arcade) și are libertatea de a interacționa fizic cu echipamentele virtuale.
+The player is placed in an interactive environment (a retro room with a CRT TV or an arcade room) and has the freedom to physically interact with the virtual equipment.
 
-## Funcționalități Principale
+## Core Features
 
-* **Selecția și rularea jocurilor:** Meniu interactiv pentru încărcarea jocurilor NES. Output-ul video al emulatorului este mapat în timp real pe ecranele obiectelor 3D din scena Unity.
-* **Locomoție VR:** Sistem de deplasare prin teleportare care permite explorarea spațiului și poziționarea optimă a utilizatorului.
-* **Interacțiune cu mediul:** Utilizarea controllerelor VR pentru a apăsa fizic butoanele consolei, elementele de control ale ecranelor și interfața meniului.
+- **Game Selection and Running:** Interactive menu for loading NES games. The emulator's video output is mapped in real-time onto the screens of the 3D objects in the Unity scene.
+- **VR Locomotion:** Teleportation-based movement system that allows space exploration and optimal positioning of the user.
+- **Environment Interaction:** Using VR controllers to physically press the console buttons, the screens' control elements, and the menu interface.
 
-## Tehnologii Folosite
+## Technologies Used
 
-* **Hardware:** Meta Quest 2
-* **Game Engine:** [Unity](https://unity.com/)
-* **VR Framework:** Meta XR Core / OpenXR
-* **Sistem de Emulare:** [UNES](https://github.com/ls9512/UNES) (Unity NES Emulator)
+- **Hardware:** Meta Quest 2
+- **Game Engine:** [Unity](https://unity.com/)
+- **VR Framework:** Meta XR Core / OpenXR
+- **Emulation System:** [UNES](https://github.com/ls9512/UNES) (Unity NES Emulator)
 
-## Echipa
-* RUCSĂNDOIU Andrei
-* COMÂRLĂU Vlad-Constantin
+## Team
+- RUCSĂNDOIU Andrei
+- COMÂRLĂU Vlad-Constantin
 
-## Configurare și Rulare
+## Setup and Running
 
-1. **Cerințe:**
-   * Unity Hub cu o versiune Unity compatibilă (LTS recomandat).
-   * Modulul *Android Build Support*, *Meta XR SDK* instalate.
-   * Casca Meta Quest 2 configurată în modul *Developer*.
+1. **Requirements:**
+   * Unity Hub with a compatible Unity version (LTS recommended).
+   * *Android Build Support* module and *Meta XR SDK* installed.
+   * Meta Quest 2 headset configured in *Developer* mode.
 
-2. **Instalare:**
+2. **Installation:**
    ```bash
-   git clone https://github.com/username/nume-repo.git
+   git clone https://github.com/username/repo-name.git
    ```
 
-3. **Rulare:**
-   * Deschideți proiectul în Unity.
-   * Verificați ca pachetele Meta XR Core SDK și UNES să fie importate corect.
-   * Conectați casca Meta Quest 2 și compilați aplicația folosind *Build and Run*.
+3. **Running:**
+   * Open the project in Unity.
+   * Ensure the Meta XR Core SDK and UNES packages are imported correctly.
+   * Connect the Meta Quest 2 headset and compile the application using *Build and Run*.
 
-## Licență
+## License
 
-Proiectul utilizează [UNES](https://github.com/ls9512/UNES) pentru emulare. 
+The project uses [UNES](https://github.com/ls9512/UNES) for emulation.
