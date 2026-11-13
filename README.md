@@ -18,8 +18,6 @@ Aplicația pune accent pe emularea fidelă a jocurilor retro și pe crearea unui
 * **Sistem de Emulare:** [UNES](https://github.com/ls9512/UNES) (Unity NES Emulator)
 
 ## Echipa
-
-Proiect realizat în cadrul programului de **Master SAS (Software Architecture and Security), Anul 2**:
 * RUCSĂNDOIU Andrei
 * COMÂRLĂU Vlad-Constantin
 
