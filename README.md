@@ -25,7 +25,7 @@ Jucătorul este plasat într-un mediu interactiv (o încăpere retro cu televizo
 
 1. **Cerințe:**
    * Unity Hub cu o versiune Unity compatibilă (LTS recomandat).
-   * Modulul *Android Build Support* instalat.
+   * Modulul *Android Build Support*, *Meta XR SDK* instalate.
    * Casca Meta Quest 2 configurată în modul *Developer*.
 
 2. **Instalare:**
