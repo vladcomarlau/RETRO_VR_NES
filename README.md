@@ -2,7 +2,7 @@
 
 Proiectul este o experiență imersivă în realitate virtuală care permite utilizatorilor să joace titluri clasice NES (Nintendo Entertainment System) într-un spațiu 3D simulat. 
 
-Aplicația pune accent pe emularea fidelă a jocurilor retro și pe crearea unui sentiment de prezență. Jucătorul este plasat într-un mediu interactiv (o încăpere retro cu televizor CRT sau o sală arcade) și are libertatea de a interacționa fizic cu echipamentele virtuale.
+Jucătorul este plasat într-un mediu interactiv (o încăpere retro cu televizor CRT sau o sală arcade) și are libertatea de a interacționa fizic cu echipamentele virtuale.
 
 ## Funcționalități Principale
 
